@@ -5,6 +5,7 @@ Command line tool for adjusting display positions in OS X.
 ```
 macOS Sonoma에서 Display_ID가 1, 2, 3으로 모니터를 연결할때 동일한 값이 유지되지 않음. 
 사용하고 있는 모니터 모델이 달라서 CGDisplayModelNumber를 구분값으로 사용하도록 변경함.
+
 옵션수정 - l, a, s
 ```
 
